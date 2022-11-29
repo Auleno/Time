@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Luminari";
+  src: local("Luminari"),
+     url(".../me/css/Luminari-Regular.ttf") format("truetype");
+}
+html{
+  background-color: #111111;
+
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	color: #E6B556;
+
+}
+body{
+    border:2px solid red;
+    border-radius: 2px;
+	margin:150px;
+	font-family: "Luminari";
+  background-color: #222222;
+
+}
+p{
+  color:white;
+  margin: 50px;
+  font-size: 20px;
+  text-align: center;
+}
