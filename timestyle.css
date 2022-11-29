@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Luminari";
   src: local("Luminari"),
-     url(".../me/css/Luminari-Regular.ttf") format("truetype");
+     url("/css/Luminari-Regular.ttf") format("truetype");
 }
 html{
   background-color: #111111;
